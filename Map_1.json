@@ -64,7 +64,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/Map_2.json"
+                 "value":"fsworkadventuremap_2"
                 }],
          "type":"tilelayer",
          "visible":true,
