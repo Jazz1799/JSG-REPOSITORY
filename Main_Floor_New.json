@@ -44,6 +44,12 @@
          "id":6,
          "name":"exit1",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"communitylife_2nd_floor_pers_prof_dev_1"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -56,6 +62,12 @@
          "id":7,
          "name":"exit2",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"community_life_2nd_floor_pers_prof_dev_2"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -68,6 +80,12 @@
          "id":8,
          "name":"exit3",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"communitylife_1st_floor_arts_social"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -80,6 +98,12 @@
          "id":9,
          "name":"exit4",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"community_life_4th_floor_sports_1"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -92,6 +116,12 @@
          "id":10,
          "name":"exit5",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"community_life_5th_floor_sports_2_fs_intiatives"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,

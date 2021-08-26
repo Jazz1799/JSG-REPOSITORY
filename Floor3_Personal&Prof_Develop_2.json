@@ -229,6 +229,12 @@
          "id":5,
          "name":"exit",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"communitylife_mainfloor"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":94,
